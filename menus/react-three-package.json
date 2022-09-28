@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle react-three-package",
+        "command": "react-three-package:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "react-three-package",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "react-three-package:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
