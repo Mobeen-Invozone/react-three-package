@@ -3,7 +3,7 @@
   "main": "./lib/react-three-package",
   "version": "0.0.0",
   "description": "A short description of your package",
-  "keywords": ["react", "three", "fiber", "reactjs", "threejs"
+  "keywords": [
   ],
   "activationCommands": {
     "atom-workspace": "react-three-package:toggle"
