@@ -7,7 +7,7 @@
   "activationCommands": {
     "atom-workspace": "react-three-package:toggle"
   },
-  "repository": "https://github.com/Mobeen-Invozone/react-three-package.git",
+  "repository": "https://github.com/Mobeen-Invozone/react-three-package",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
