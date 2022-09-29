@@ -1,16 +1,18 @@
 {
   "name": "react-three-package",
   "main": "./lib/react-three-package",
-  "version": "0.3.0",
+  "version": "0.0.0",
   "description": "A short description of your package",
-  "keywords": [],
+  "keywords": [
+  ],
   "activationCommands": {
     "atom-workspace": "react-three-package:toggle"
   },
-  "repository": "https://github.com/Mobeen-Invozone/react-three-package",
+  "repository": "https://github.com/atom/react-three-package",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
-  "dependencies": {}
+  "dependencies": {
+  }
 }
